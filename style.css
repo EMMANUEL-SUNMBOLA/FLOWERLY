@@ -1,0 +1,38 @@
+
+#home{
+  background: url(images/home-bg.jpg);
+  background-size: cover;
+  height: 100vh;
+  padding-top: 40vh;
+}
+main button:hover{
+  border-radius: 20%;
+  background-color: var(--pink);
+  border: 0;
+}
+main button{
+  border: 1vh solid pink;
+  background-color: rgba(220,190,190,);
+}
+#products button{
+  border: 1px solid navy;
+  border-radius: 4%;
+  background: cyan;
+}
+#products button:hover{
+  background: transparent;
+}
+#contact img{
+  width: 500px;
+  margin-left: 600px;
+  margin-top: -400px;
+}
+legend{
+  width: 500px;
+}
+#foot{
+  background-color: #c5c5c5;
+  color: black;
+  font-style: italic;
+  font-size: larger;
+}
